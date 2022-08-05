@@ -1,7 +1,7 @@
 <!-- Hi there 👋 -->
 
 ### About me 😄
-#### - Interest in Mathematics made me pursue Data Science 📊
+#### - Love towards Mathematics made me pursue Data Science 📊
 #### - A musician 🎹 who loves to Code 💻
 ## 
 ### Currently working 👨🏽‍💻 on Python
