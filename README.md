@@ -1,4 +1,27 @@
-### Hi there 👋
+<!-- Hi there 👋 -->
+
+### About me 😄
+#### - Interest in Mathematics made me pursue Data Science
+#### - A musician ♫ who loves to Code 💻
+## 
+### Currently working 👨🏽‍💻 on Python
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="150" title="hover text">
+</p>
+
+## 
+###  I’m currently learning 🌱
+#### Machine Learning
+## 
+
+### I’m looking for help with 🤔
+#### Projects involving music and data science (implementation of Music with Data Science)
+## 
+
+### Would love to collaborate with anybody ✨
+## 
+
 
 <!--
 **aswinvenk/aswinvenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
