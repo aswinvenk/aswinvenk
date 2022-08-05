@@ -10,6 +10,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="150" title="hover text">
 </p>
 
+### Would love to collaborate with anybody ✨
+## 
+
 ## 
 ###  I’m currently learning 🌱
 #### Machine Learning
@@ -17,9 +20,6 @@
 
 ### I’m looking for help with 🤔
 #### Projects involving music and data science (implementation of Music with Data Science)
-## 
-
-### Would love to collaborate with anybody ✨
 ## 
 
 
