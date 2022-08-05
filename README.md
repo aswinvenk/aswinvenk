@@ -11,11 +11,11 @@
 </p>
 
 ##
-### Would love to collaborate with anybody ✨
+## Would love to collaborate with anybody ✨
 ## 
 
 ###  I’m currently learning 🌱
-#### 🦾 Machine Learning
+#### Machine Learning 🦾
 ## 
 
 ### I’m looking for help with 🤔
