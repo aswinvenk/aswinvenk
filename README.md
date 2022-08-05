@@ -1,8 +1,8 @@
 <!-- Hi there 👋 -->
 
 ### About me 😄
-#### - Interest in Mathematics made me pursue Data Science
-#### - A musician ♫ who loves to Code 💻
+#### - Interest in Mathematics made me pursue Data Science 📊
+#### - A musician 🎹 who loves to Code 💻
 ## 
 ### Currently working 👨🏽‍💻 on Python
 
@@ -15,7 +15,7 @@
 ## 
 
 ###  I’m currently learning 🌱
-#### Machine Learning
+#### 🦾 Machine Learning
 ## 
 
 ### I’m looking for help with 🤔
